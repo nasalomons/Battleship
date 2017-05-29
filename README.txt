@@ -1,4 +1,6 @@
-Battleship is an old Java project that I found the other day.
+**PROJECT IS VERY INCOMPLETE**
+
+Battleship is a very old Java project that I found the other day.
 
 The project was going to be a recreation of the Battlefield board game. I implemented all the functionality of the boats, but did not complete the GUI. Every ship is able to be placed, be hit, and sink when appropriate.
 
